@@ -2,8 +2,8 @@ The provided answer is based on socket communications between server and telnet 
 Every client that connects to the server creates a thread to handle the communication.  
 
 How to run the code:  
-- on server > python3 chat_server.py
-- on each client > telnet <ip> 10000 (e.g. telnet 127.0.0.1 10000)
+- > on server: python3 chat_server.py
+- > on each client: telnet <ip> 10000 (e.g. telnet 127.0.0.1 10000)
 
 Automated test code inside the file 'unittest_chatserver.py'  
 To run the automated test, execute the file:  
