@@ -1,0 +1,9 @@
+IP = ''
+CLIENT_IP = 'localhost'
+PORT = 10000
+
+LOG_LEVEL = 'INFO'
+
+EXIT_COMMAND = 'exit'
+BYTE_TO_RECEIVE = 1024
+ENCODING = 'utf-8'
